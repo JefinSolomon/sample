@@ -1,0 +1,19 @@
+---
+title: "Sample R markdown"
+author: "Jefin"
+date: "7/18/2020"
+output: pdf_document
+---
+
+#Sample
+
+This is Jefin. I am feelink thanks!!
+
+```{r}
+x<-3+5
+print(x+4)
+```
+
+##Why is it needed
+
+*the complexity* involved is thanks!!
