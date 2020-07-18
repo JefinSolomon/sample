@@ -5,7 +5,7 @@ date: "7/18/2020"
 output: pdf_document
 ---
 
-#Sample
+# Sample
 
 This is Jefin. I am feelink thanks!!
 
@@ -14,6 +14,6 @@ x<-3+5
 print(x+4)
 ```
 
-##Why is it needed
+## Why is it needed
 
 *the complexity* involved is thanks!!
